@@ -6,11 +6,11 @@ p {
    line-height: 18px;
    width: 600px;
    padding: 20px;
-   background:lightblue
+   background:lightblue;
 } 
 
 h1, h3 { 
-color: yellow
+color: yellow;
 } 
 
 
@@ -21,10 +21,10 @@ body {
             background-position: center;
             background-repeat: no-repeat;
             color: white; /* Bijeli tekst da se bolje vidi */
-            font-family: Arial, sans-seri
+            font-family: Arial, sans-serif
 } 
 a {
 	color:black;
-	background-color:white:
+	background-color:white;
 } 
 	
